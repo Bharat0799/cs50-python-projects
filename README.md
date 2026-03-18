@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# CS50 Python Practice + Calculator Project
 
 ## Introduction
@@ -58,7 +59,9 @@ python calculator/calculator.py
 - 🔄 More projects coming soon
 
 ## 🔗 Connect with Me
-- GitHub: [@your-github](https://github.com/your-github)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin)
+- GitHub: [@your-github](https://github.com/Bharat0799)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/bharat-tadi-569866334)
 
 Star this repo ⭐
+
+# cs50-python-projects
