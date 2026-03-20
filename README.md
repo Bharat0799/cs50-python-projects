@@ -1,67 +1,97 @@
-<<<<<<< HEAD
-﻿# CS50 Python Practice + Calculator Project
+# CS50 Python Projects 🚀
 
-## Introduction
-Hi! I'm a BTech CSE student who enjoys Python and problem-solving. This repo gathers my CS50 Python Problem Set 0 solutions and a CLI calculator I built to keep practicing.
+Hi! I'm Bharat Chandra Tadi 👋  
+BTech CSE Student | Aspiring Software Development Engineer  
+
+This repository contains my CS50 Python problem sets and mini projects built to strengthen my problem-solving and Python fundamentals.
+
+---
 
 ## 🚀 About the Project
-- Foundation portfolio for internships: clean, beginner-friendly code with clear structure.
-- Mix of course exercises and a self-driven mini project.
-- Actively improving as I learn; feedback welcome.
 
-## 📂 Projects Included
-- `pset0/`
-  - `indoor/` — Indoor Voice → converts text to lowercase.
-  - `playback/` — Playback Speed → replaces spaces with "..." for audio-style pacing.
-  - `faces/` — Making Faces → converts emoticons to emojis.
-  - `einstein/` — Einstein → calculates energy using E = mc².
-  - `tip/` — Tip Calculator → calculates a tip based on user input.
-- `calculator/`
-  - `calculator.py` — CLI calculator with addition, subtraction, multiplication, division, and division-by-zero protection.
+- Beginner-to-intermediate level Python practice repository  
+- Structured problem-solving using CS50 curriculum  
+- Includes mini projects to apply concepts practically  
+- Continuously updated as I learn and grow  
+
+---
+
+## 📂 Project Structure
+
+### 🔹 Problem Set 0
+- `indoor/` — Converts text to lowercase  
+- `playback/` — Replaces spaces with "..."  
+- `faces/` — Converts emoticons to emojis  
+- `einstein/` — Calculates energy (E = mc²)  
+- `tip/` — Tip calculator  
+
+### 🔹 Mini Project (PSet0)
+- `calculator_p1/`  
+  - CLI-based calculator  
+  - Supports +, -, *, /  
+  - Handles division by zero  
+
+---
+
+### 🔹 Problem Set 1
+- `deep.py` — Answer to life (42 problem)  
+- `bank.py` — Greeting-based transaction logic  
+- `extensions.py` — File type detection  
+- `interpreter.py` — Math expression evaluator  
+- `meal.py` — Meal time checker  
+
+### 🔹 Mini Project (PSet1)
+- `smart_file_analyzer/`  
+  - Detects file types  
+  - Performs basic math operations  
+  - Handles user input and conditions  
+  - Combines multiple PSet1 concepts  
+
+---
+
+### 🔹 Problem Set 2
+- `camel.py` — camelCase → snake_case converter  
+- `coke.py` — Vending machine simulation  
+- `twttr.py` — Removes vowels from text  
+- `plates.py` — License plate validator  
+- `nutrition.py` — Fruit calorie lookup  
+
+### 🔹 Mini Project (PSet2)
+- `smart_text_tools/`  
+  - Removes vowels  
+  - Counts words  
+  - Counts characters  
+
+---
 
 ## 🛠 Tech Stack
-- Python 3.x
-- Standard library only (no external dependencies)
-- Runs on macOS, Linux, or Windows terminals
+
+- Python 3.x  
+- Standard Library  
+- CLI-based applications  
+- Git & GitHub  
+
+---
 
 ## 📈 Skills Gained
-- String manipulation and formatting
-- Control flow and functions
-- Input validation & error handling (incl. division by zero)
-- Command-line UX design
-- Lightweight project organization & README writing
-- Git/GitHub workflow basics
+
+- Problem Solving & Logical Thinking  
+- String Manipulation  
+- Input Validation & Error Handling  
+- Control Flow (loops, conditions)  
+- CLI Tool Development  
+- Clean Code & Project Structuring  
+- Git Version Control  
+
+---
 
 ## ▶️ How to Run
-1) Ensure Python 3 is installed (`python --version`).
-2) Run any exercise directly, e.g.:
+
 ```bash
 python pset0/indoor/indoor.py
-python pset0/playback/playback.py
-python pset0/faces/faces.py
-python pset0/einstein/einstein.py
-python pset0/tip/tip.py
-python calculator/calculator.py
-```
-3) Follow the prompts in the terminal.
-
-## 🧮 Calculator Project
-- Description: Terminal-first calculator built to extend CS50 practice.
-- Features:
-  - Addition, subtraction, multiplication, division
-  - Handles invalid number input gracefully
-  - Division-by-zero guard with friendly message
-  - Simple menu loop for quick reuse
-
-## Progress
-- ✅ Completed CS50 Python Problem Set 0
-- ✅ Built first mini project (CLI calculator)
-- 🔄 More projects coming soon
-
+python pset1/deep.py
+python pset2/camel.py
 ## 🔗 Connect with Me
 - GitHub: [@your-github](https://github.com/Bharat0799)
 - LinkedIn: [Your Name](https://www.linkedin.com/in/bharat-tadi-569866334)
 
-Star this repo ⭐
-
-# cs50-python-projects
