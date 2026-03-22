@@ -2,7 +2,7 @@
 <h1 align="center">Bharat Chandra Tadi</h1>
 
 <p align="center">
-  <img src="assets/profile.jpeg" width="150" />
+  <img src="./assests/profile.jpeg" width="150" />
 </p>
 
 <p align="center">
